@@ -425,6 +425,12 @@ label {
   }
 
 
+  .footer-top.d-flex.align-items-center.justify-content-between {
+    flex-direction: column;
+    gap: 15px;
+}
+
+
   .mb-60 {
     margin-bottom: 40px;
   }
